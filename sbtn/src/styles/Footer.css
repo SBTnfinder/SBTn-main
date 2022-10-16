@@ -1,0 +1,45 @@
+.TextFieldContainer {
+    margin-bottom: 15px;
+}
+
+.NameField {
+    background-color: white;
+    border-radius: 15px ;
+}
+
+.EmailField {
+    background-color: white;
+    border-radius: 15px;
+}
+
+.MessageField {
+    background-color: white;
+    border-radius: 15px;
+}
+
+.SearchButton {
+    margin-top: 15px;
+    width: 50%;
+}
+
+.InformationFieldContainer {
+    margin-bottom: 15px;
+}
+
+.InformationField {
+    background-color: #253E93;
+    border-radius: 15px ;
+    font-size: 15px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    line-height: 2px;
+}
+
+.ImageField {
+    background-color: #253E93;
+    border-radius: 15px ;
+    font-size: 15px;
+    padding-top: 2px;
+    margin-bottom: 50px;
+    line-height: 2px;
+}

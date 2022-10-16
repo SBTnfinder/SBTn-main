@@ -1,0 +1,19 @@
+.SBTnContainer {
+    background: white;
+    display: inline;
+    align-items: center;
+    justify-content: center;
+}
+
+.SBTnLegend{
+    font-size: 15px;
+    background: #253E93;
+    width: 200px;
+    height: 250px;;
+    padding-bottom: 10px;
+    margin:5px;
+    border-radius: 20px;
+    padding-top: 20px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}

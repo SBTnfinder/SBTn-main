@@ -1,0 +1,19 @@
+.CardContainer {
+    background: white;
+    display: inline;
+}
+
+.Legend{
+    font-size: 15px;
+    background: white;
+    width: 250px;
+    height: 110%;
+    padding-bottom: 10px;
+    margin:5px;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+    font-weight: bold;
+    line-height: 5px;
+}
+
