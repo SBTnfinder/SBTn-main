@@ -23,6 +23,9 @@ For run this go to /front
 ## Who did
 
 Victor Garcia (Backend Dev)
+
 Marcio (Backend Dev)
+
 Nara (Frontend Dev)
+
 Carol (Product Manager)
